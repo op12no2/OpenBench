@@ -1,6 +1,6 @@
 {
     "private" : false,
-    "nps"     : 330000,
+    "nps"     : 290000,
     "source"  : "https://github.com/op12no2/lozza",
 
     "build" : {
@@ -37,7 +37,7 @@
             "both_options"      : "Threads=1 Hash=128",
             "both_time_control" : "60+1",
             "test_bounds"       : "[-4.00, 0.00]",
-            "test_confidence"   : "[0.05,0.1]",
+            "test_confidence"   : "[0.05, 0.1]",
             "workload_size"     : 16
         },
 
