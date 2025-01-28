@@ -1,6 +1,6 @@
 {
     "private" : false,
-    "nps"     : 200000,
+    "nps"     : 220000,
     "source"  : "https://github.com/op12no2/lozza",
 
     "build" : {
